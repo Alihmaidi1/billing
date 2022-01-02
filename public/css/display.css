@@ -1,0 +1,18 @@
+body{
+
+    background-image: rgb(194, 66, 66);
+}
+.style_theader{
+font-size: 11px;
+}
+
+@media(max-width:388px){
+
+    .style-tbody{
+
+position: relative;
+top: 25px;    
+
+        }
+
+}
